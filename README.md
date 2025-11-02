@@ -41,20 +41,20 @@ Welcome to the **Tetris Game** built in Python! This project combines a classic 
 git clone https://github.com/brenoviske/DiceGame.git
 cd DiceGame
 ```
-Install your virtual enviroment:
+2.Install your virtual enviroment:
 ```bash
 python3/python -m venv env
 source env/bin/activate ( for macOS)
 .env\Scripts\activate ( for windows after releasing the execution police) 
 ```
 
-Now installl the dependencies within the virutal enviroment:
+3.Now installl the dependencies within the virutal enviroment:
 
 ```bash
 pip install requirements.txt
 ```
 
-And then run the programm with the main file of the script:
+4.And then run the programm with the main file of the script:
 ```bash
 python3/python app.py
 ```
