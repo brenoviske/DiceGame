@@ -45,7 +45,7 @@ Install your virtual enviroment:
 ```bash
 python3/python -m venv env
 source env/bin/activate ( for macOS)
-.env\Scripts\activate ( for windows after releasing the exectuion police) 
+.env\Scripts\activate ( for windows after releasing the execution police) 
 ```
 
 Now installl the dependencies within the virutal enviroment:
