@@ -44,7 +44,8 @@ cd DiceGame
 Install your virtual enviroment:
 ```bash
 python3/python -m venv env
-source env/bin/activate
+source env/bin/activate ( for macOS)
+.env\Scripts\activate ( for windows after releasing the exectuion police) 
 ```
 
 Now installl the dependencies within the virutal enviroment:
